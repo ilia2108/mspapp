@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{B5FC5329-13AB-4119-9AF2-717646350201}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../Library/Frameworks/Xamarin.iOS.framework/Versions/10.4.0.128/lib/msbuild/iOS/Xamarin.iOS.Common.targets">
+    <Files>
+      <File FileName="../../../../Library/Frameworks/Xamarin.iOS.framework/Versions/10.4.0.128/lib/msbuild/iOS/Xamarin.iOS.Common.targets" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.App7.Android PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MultiItemStartupConfigurations />
+</Properties>

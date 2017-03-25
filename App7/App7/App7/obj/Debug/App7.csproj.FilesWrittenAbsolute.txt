@@ -1,0 +1,16 @@
+/Users/max/Projects/App7/App7/App7/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile259.AssemblyAttribute.cs
+/Users/max/Projects/App7/App7/App7/obj/Debug/App7.MainPage.xaml
+/Users/max/Projects/App7/App7/App7/obj/Debug/App7.App.xaml
+/Users/max/Projects/App7/App7/App7/obj/Debug/App7.ChildContent.View1.xaml
+/Users/max/Projects/App7/App7/App7/obj/Debug/App7.ChildContent.View2.xaml
+/Users/max/Projects/App7/App7/App7/obj/Debug/App7.MainPage.xaml.g.cs
+/Users/max/Projects/App7/App7/App7/obj/Debug/App7.App.xaml.g.cs
+/Users/max/Projects/App7/App7/App7/obj/Debug/App7.ChildContent.View1.xaml.g.cs
+/Users/max/Projects/App7/App7/App7/obj/Debug/App7.ChildContent.View2.xaml.g.cs
+/Users/max/Projects/App7/App7/App7/bin/Debug/App7.dll.mdb
+/Users/max/Projects/App7/App7/App7/bin/Debug/App7.dll
+/Users/max/Projects/App7/App7/App7/obj/Debug/App7.dll
+/Users/max/Projects/App7/App7/App7/obj/Debug/App7.dll.mdb
+/Users/max/Projects/App7/App7/App7/bin/Debug/Xamarin.Forms.Core.dll
+/Users/max/Projects/App7/App7/App7/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/max/Projects/App7/App7/App7/bin/Debug/Xamarin.Forms.Xaml.dll
